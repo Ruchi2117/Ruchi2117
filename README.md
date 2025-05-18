@@ -22,9 +22,6 @@ I’m an aspiring AI developer and software engineer passionate about coding, pr
 ### Programming Languages
 C, C++, Java, JavaScript, Python
 
-### CS Fundamentals
-Data Structures & Algorithms, Object-Oriented Programming (OOP), System Design, Software Development Lifecycle (SDLC)
-
 ### Web Technologies
 HTML, CSS, JavaScript, React.js, Bootstrap, Material-UI, Next.js, Tailwind CSS, WordPress
 
