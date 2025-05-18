@@ -34,12 +34,6 @@ Node.js, Express.js, MongoDB, SQL, REST APIs, SpringBoot (Basics)
 ### AI / Machine Learning / NLP
 Python (NumPy, Pandas, scikit-learn, TensorFlow, matplotlib), NLP Basics (Tokenization, POS Tagging, Rule-based Grammar), ASR Concepts, Text Preprocessing
 
-### Libraries & Frameworks
-Leaflet.js, Google Maps API, Axios, NLTK, Regular Expressions, Flutter
-
-### Tools & Platforms
-Git, GitHub, Postman, Microsoft 365, Figma, Workflow Automation Tools (n8n basics)
-
 ---
 
 ⭐ If you like my work, consider following me!
