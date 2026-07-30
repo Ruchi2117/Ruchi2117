@@ -4,16 +4,16 @@
 
 ### Full-Stack Developer · Software Engineer · AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Web+%26+AI+Solutions;Exploring+Machine+Learning+%26+NLP;Creating+Technology+for+Real-World+Problems;Always+Learning+Something+New" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Building+Full-Stack+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+into+Real-World+Products" alt="Typing introduction" />
 
 <br>
 
 <a href="https://linkedin.com/in/ruchi-shaktawat-3b321a303">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:ruchishaktawat5@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </div>
@@ -24,110 +24,68 @@
 
 ```javascript
 const ruchi = {
-    role: "Software Developer",
+    role: "Full-Stack Developer",
     interests: [
-        "Artificial Intelligence",
-        "Full-Stack Development",
+        "Software Engineering",
         "Web Development",
+        "Artificial Intelligence",
         "Machine Learning"
-    ],
-    currentlyExploring: [
-        "Natural Language Processing",
-        "Intelligent Applications",
-        "Scalable Backend Development"
     ],
     frontend: ["React.js", "Next.js", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "Spring Boot"],
     databases: ["MongoDB", "SQL"],
-    goal: "Build technology that solves real-world problems",
-    mindset: "Learn, build, improve, repeat"
+    goal: "Build useful technology for real-world problems"
 };
 ```
-
-* 💻 Passionate about software engineering and full-stack development
-* 🌐 Building responsive, user-friendly, and scalable web applications
-* ⚙️ Interested in frontend development, backend systems, APIs, and databases
-* 🤖 Exploring Artificial Intelligence, Machine Learning, and NLP
-* 🚀 Enjoy turning ideas into practical, real-world software products
-* 🌱 Continuously learning and experimenting with new technologies
-* 🤝 Open to full-stack, software development, and AI opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" alt="Programming languages" />
-</p>
+<img height="32" src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" alt="Programming languages" />
 
-### Frontend Development
+### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind,materialui,wordpress" alt="Frontend technologies" />
-</p>
+<img height="32" src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind,materialui" alt="Frontend technologies" />
 
 ### Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,spring" alt="Backend technologies and databases" />
-</p>
+<img height="32" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,spring" alt="Backend technologies and databases" />
 
-### AI, Machine Learning & Data
+### AI, Data & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" alt="AI and machine learning technologies" />
-</p>
+<img height="32" src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,github,vscode,postman" alt="AI and development tools" />
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/NLP-6C63FF?style=flat-square" alt="Natural Language Processing" />
-  <img src="https://img.shields.io/badge/Text%20Preprocessing-FF6F61?style=flat-square" alt="Text preprocessing" />
-  <img src="https://img.shields.io/badge/ASR%20Concepts-00897B?style=flat-square" alt="ASR concepts" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools" />
+  <img height="22" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img height="22" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img height="22" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+  <img height="22" src="https://img.shields.io/badge/NLP-6C63FF?style=flat-square" alt="NLP" />
 </p>
 
 ---
-
-## 🚀 Currently Exploring
-
-* Full-stack web application development
-* Scalable backend systems and REST API development
-* Machine Learning and intelligent applications
-* Natural Language Processing and text preprocessing
-* REST API development and backend architecture
-* Modern frameworks and development tools
-
----
-
-## 🤝 Let's Connect
 
 <div align="center">
 
-I'm interested in discussing software development, Artificial Intelligence, innovative ideas, and new opportunities.
+### 🤝 Let's Connect
 
+Interested in full-stack development, software engineering, AI, and new opportunities.
 
 <a href="https://linkedin.com/in/ruchi-shaktawat-3b321a303">
-  <img src="https://img.shields.io/badge/Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:ruchishaktawat5@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
+<br><br>
 
-### Thanks for visiting my profile! ✨
-
-⭐ Explore my repositories and follow me to stay connected.
+### Thanks for visiting! ✨
 
 </div>
+
 
 
