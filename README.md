@@ -1,5 +1,3 @@
-That makes sense—your repositories are already visible below the README, so a separate projects section would be repetitive. I also removed all DSA references and added your username, `Ruchi2117`.
-
 <div align="center">
 
 # Hi, I'm Ruchi Shaktawat 👋
