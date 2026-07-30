@@ -2,7 +2,7 @@
 
 # Hi, I'm Ruchi Shaktawat 👋
 
-### Software Developer · Web Developer · AI Enthusiast
+### Full-Stack Developer · Software Engineer · AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Web+%26+AI+Solutions;Exploring+Machine+Learning+%26+NLP;Creating+Technology+for+Real-World+Problems;Always+Learning+Something+New" alt="Typing introduction" />
 
@@ -27,6 +27,7 @@ const ruchi = {
     role: "Software Developer",
     interests: [
         "Artificial Intelligence",
+        "Full-Stack Development",
         "Web Development",
         "Machine Learning"
     ],
@@ -35,17 +36,21 @@ const ruchi = {
         "Intelligent Applications",
         "Scalable Backend Development"
     ],
+    frontend: ["React.js", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "Spring Boot"],
+    databases: ["MongoDB", "SQL"],
     goal: "Build technology that solves real-world problems",
     mindset: "Learn, build, improve, repeat"
 };
 ```
 
-* 🎓 Engineering student passionate about technology and innovation
-* 💻 Interested in software engineering and full-stack development
+* 💻 Passionate about software engineering and full-stack development
+* 🌐 Building responsive, user-friendly, and scalable web applications
+* ⚙️ Interested in frontend development, backend systems, APIs, and databases
 * 🤖 Exploring Artificial Intelligence, Machine Learning, and NLP
-* 🌐 Building responsive and user-friendly web applications
+* 🚀 Enjoy turning ideas into practical, real-world software products
 * 🌱 Continuously learning and experimenting with new technologies
-* 🤝 Open to software development, web development, and AI opportunities
+* 🤝 Open to full-stack, software development, and AI opportunities
 
 ---
 
@@ -95,6 +100,7 @@ const ruchi = {
 ## 🚀 Currently Exploring
 
 * Full-stack web application development
+* Scalable backend systems and REST API development
 * Machine Learning and intelligent applications
 * Natural Language Processing and text preprocessing
 * REST API development and backend architecture
@@ -108,7 +114,6 @@ const ruchi = {
 
 I'm interested in discussing software development, Artificial Intelligence, innovative ideas, and new opportunities.
 
-<br><br>
 
 <a href="https://linkedin.com/in/ruchi-shaktawat-3b321a303">
   <img src="https://img.shields.io/badge/Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
@@ -118,7 +123,6 @@ I'm interested in discussing software development, Artificial Intelligence, inno
   <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
 </a>
 
-<br><br>
 
 ### Thanks for visiting my profile! ✨
 
