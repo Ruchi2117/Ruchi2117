@@ -108,32 +108,6 @@ const ruchi = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ruchi2117&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="Ruchi's GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchi2117&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Ruchi's most used languages" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchi2117&theme=tokyonight&hide_border=true&border_radius=12" alt="Ruchi's GitHub contribution streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchi2117&theme=tokyo-night&hide_border=true&radius=12" width="100%" alt="GitHub contribution graph" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
