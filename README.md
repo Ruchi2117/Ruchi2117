@@ -81,8 +81,6 @@ Interested in full-stack development, software engineering, AI, and new opportun
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<br><br>
-
 ### Thanks for visiting! ✨
 
 </div>
