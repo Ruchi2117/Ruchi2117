@@ -34,6 +34,7 @@ const ruchi = {
     backend: ["Node.js", "Express.js", "Spring Boot"],
     databases: ["MongoDB", "SQL"],
     goal: "Build useful technology for real-world problems"
+    mindset: "Learn, build, improve, repeat"
 };
 ```
 
