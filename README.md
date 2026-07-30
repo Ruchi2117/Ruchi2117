@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi, I'm Ruchi Shaktawat 👋
 
 ### Full-Stack Developer · Software Engineer · AI Enthusiast
@@ -68,18 +67,6 @@ const ruchi = {
 ---
 
 <div align="center">
-
-### 🤝 Let's Connect
-
-Interested in full-stack development, software engineering, AI, and new opportunities.
-
-<a href="https://linkedin.com/in/ruchi-shaktawat-3b321a303">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:ruchishaktawat5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
 ### Thanks for visiting! ✨
 
